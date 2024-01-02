@@ -1,9 +1,9 @@
 # Site settings
-name: Brittany Chiang
+name: IscoDisco22
 title: Brittany Chiang | Front End Software Engineer
 description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
 url: https://caesarwept.github.io/portfolio/
-baseurl: ''
+baseurl: '/landing/'
 email: brittany.chiang@gmail.com
 cover: https://bchiang7.github.io/img/og.png
 logo: https://bchiang7.github.io/img/emojis/technologist.png
