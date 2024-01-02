@@ -20,6 +20,7 @@ databases:
   - item: Microsoft Access
   - item: Power BI
   - item: Tableau
+  - excel
 
 design:
   - item: Sketchup
@@ -28,4 +29,3 @@ design:
   - item: InDesign
   - item: Photoshop
   - item: Premiere Pro
-  - item: Excel
