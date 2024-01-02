@@ -16,11 +16,11 @@ emr:
   - item: Kroll
 
 databases:
-  - item: SQL
-  - item: Microsoft Access
-  - item: Power BI
-  - item: Tableau
-  - excel
+  - SQL
+  - Excel
+  - Microsoft Access
+  - Power BI
+  - Tableau
 
 design:
   - item: Sketchup
