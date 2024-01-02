@@ -1,21 +1,19 @@
-front-end:
+dev:
   - item: TypeScript
   - item: HTML
   - item: CSS/Sass
   - item: XML
   - item: jQuery
-
-back-end:
   - item: Javascript
   - item: Python, Panda, MATLAB
   - item: R
 
 emr:
-  - EPIC
-  - Meditech
-  - QuadraMed
-  - Prescribe-IT
-  - Kroll
+  - item: EPIC
+  - item: Meditech
+  - item: QuadraMed
+  - item: Prescribe-IT
+  - item: Kroll
 
 databases:
   - item: SQL
@@ -23,10 +21,14 @@ databases:
   - item: Power BI
   - item: Tableau
 
-design:
+tools:
   - item: Sketchup
   - item: Typography
-  - item: Illustrator, InDesign, Photoshop, Premiere Pro
+  - item: Illustrator
+  - item: InDesign
+  - item: Photoshop
+  - item: Premiere Pro
+  - item: Excel
 
 languages:
   - item: English
