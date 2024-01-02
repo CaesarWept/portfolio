@@ -21,7 +21,7 @@ databases:
   - item: Power BI
   - item: Tableau
 
-tools:
+design:
   - item: Sketchup
   - item: Typography
   - item: Illustrator
@@ -29,9 +29,3 @@ tools:
   - item: Photoshop
   - item: Premiere Pro
   - item: Excel
-
-languages:
-  - item: English
-  - item: French
-  - item: Mandarin Chinese
-  - item: Castellano Spanish (conversational)
