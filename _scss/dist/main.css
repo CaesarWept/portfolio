@@ -74,10 +74,6 @@ html {
   box-sizing: inherit;
 }
 
-::-moz-selection {
-  background: #ffdc00;
-}
-
 ::selection {
   background: #ffdc00;
 }
@@ -98,10 +94,6 @@ html.night,
 body.night {
   background-color: #171c28;
   color: #afafbf;
-}
-html.night ::-moz-selection, body.night ::-moz-selection {
-  color: #36363c;
-  background: #ffdc00;
 }
 html.night ::selection,
 body.night ::selection {
@@ -959,4 +951,4 @@ strong {
   height: 3px;
   opacity: 1;
   transform: translateY(-5px);
-}/*# sourceMappingURL=main.css.map */
+}
